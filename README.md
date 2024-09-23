@@ -1,3 +1,2 @@
 # Домашнее задание к занятию "3.Обработка событий"
-![CI](https://github.com/Cen-2-rion/popovers-bootstrap/actions/workflows/web.yml/badge.svg)
-## Ссылка на Github Pages
+[![Build status](https://ci.appveyor.com/api/projects/status/ayg9lo58e00ni46g?svg=true)](https://ci.appveyor.com/project/Cen-2-rion/popovers-bootstrap)
