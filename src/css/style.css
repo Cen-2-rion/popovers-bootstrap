@@ -1,0 +1,30 @@
+body {
+    background-color: #f1f1f1;
+}
+
+.btn {
+    width: 220px;
+    height: 50px;
+    background-color: #eb3636;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 120px 50px;
+    font-size: 18px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.btn:hover {
+    background-color: #d33030;
+    color: white;
+}
+
+.btn:focus {
+    box-shadow: none;
+}
+
+.popover {
+    font-family: 'Arial', sans-serif;
+    border: 1px solid #cccccc;
+}
