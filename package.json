@@ -1,7 +1,7 @@
 {
   "name": "popovers-bootstrap",
   "version": "1.0.0",
-  "description": "Домашнее задание к занятию \"4. Работа с HTML-формами\"",
+  "description": "Домашнее задание к занятию \"5. Работа с HTML-формами\"",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --config webpack.dev.js",
